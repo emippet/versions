@@ -4,6 +4,10 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
+# Version = "1.0.0"
+def multiply(a, b):
+    return a * b
+
 
 print("This is a calculator module.")
 if __name__ == "__main__":
