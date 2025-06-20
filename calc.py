@@ -4,7 +4,7 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
-# Version = "1.0.0"
+# Version = "1.1.0"
 def multiply(a, b):
     return a * b
 
